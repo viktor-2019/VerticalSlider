@@ -1,2 +1,2 @@
 # VerticalSlider
-A simple vertical slider for illustration only
+A simple vertical slider for illustration only.

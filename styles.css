@@ -27,7 +27,6 @@ body {
   left: 0;
   transition: transform 0.5s ease-in-out;
 }
-
 .sidebar > div {
   height: 100%;
   width: 100%;
@@ -37,7 +36,6 @@ body {
   justify-content: center;
   color: #fff;
 }
-
 .sidebar h1 {
   font-size: 40px;
   margin-bottom: 10px;
@@ -52,7 +50,6 @@ body {
   width: 65%;
   transition: transform 0.5s ease-in-out;
 }
-
 .main-slide > div {
   background-repeat: no-repeat;
   background-size: cover;
@@ -69,11 +66,9 @@ button {
   font-size: 16px;
   padding: 15px;
 }
-
 button:hover {
   color: #222;
 }
-
 button:focus {
   outline: none;
 }
@@ -84,13 +79,11 @@ button:focus {
   top: 50%;
   z-index: 100;
 }
-
 .container .controls .down-button {
   transform: translateX(-100%);
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
-
 .container .controls .up-button {
   transform: translateY(-100%);
   border-top-right-radius: 5px;
